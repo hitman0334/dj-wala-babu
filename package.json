@@ -25,10 +25,5 @@
 	},
 	"eslintConfig": {
 		"extends": "aqua/node"
-	},
-	"renovate": {
-		"extends": [
-			"teal"
-		]
 	}
 }

@@ -36,7 +36,7 @@ DISCORD_PREFIX=
 
 ## Author
 
-**Discord Presence** © [iCrawl](https://github.com/iCrawl).  
+**Discord Music Bot** © [iCrawl](https://github.com/iCrawl).  
 Authored and maintained by iCrawl.
 
 > GitHub [@iCrawl](https://github.com/iCrawl)
