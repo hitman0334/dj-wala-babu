@@ -1,9 +1,9 @@
 {
-	"name": "discord-music-bot",
+	"name": "dj wala babu",
 	"version": "0.1.0",
-	"description": "Very simple discord music bot with the discordjs.guide command handler for easy learning and adapting.",
+	"description": "Very simple dj wala babu made by Aliyan.",
 	"main": "src/index.js",
-	"author": "iCrawl <icrawltogo@gmail.com>",
+	"author": "Aliyan",
 	"license": "MIT",
 	"private": true,
 	"scripts": {
